@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "ajhalili2006",
+	"description": "Sandbox for learning all things npm on fcc as refresher",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,5 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"keywords": ["freecodecamp", "sandbox"]
 }
